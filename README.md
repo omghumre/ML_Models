@@ -4,3 +4,4 @@ This repository is dedicated to providing practical examples and implementations
 ## 1. House price prediction
 
 ## 2. Diabetes prediction
+----- predict whether the person suffer from diabetes or not 
