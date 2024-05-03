@@ -5,3 +5,5 @@ This repository is dedicated to providing practical examples and implementations
 
 ## 2. Diabetes prediction 
 ----- predict whether the person suffer from diabetes or not 
+
+## 3. Digits dataset
