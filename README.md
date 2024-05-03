@@ -7,3 +7,4 @@ This repository is dedicated to providing practical examples and implementations
 ----- predict whether the person suffer from diabetes or not 
 
 ## 3. Digits dataset
+----- implemented logistic regression on inbuilt digit dataset
