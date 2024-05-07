@@ -8,3 +8,6 @@ This repository is dedicated to providing practical examples and implementations
 
 ## 3. Digits dataset
 ----- implemented logistic regression on inbuilt digit dataset
+
+## 4. SVM Model
+----- implemented model to predict heart attack using svm 
